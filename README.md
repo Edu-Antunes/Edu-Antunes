@@ -25,11 +25,11 @@
 <div> 
   
  
-  
-  
+  ![Snake animation](https://github.com/Edu-Antunes/Edu-Antunes/blob/output/github-contribution-grid-snake.svg) 
+ 
  
 </div>
-![Snake animation](https://github.com/Edu-Antunes/output/github-contribution-grid-snake.svg)    
+ 
   
 
 
