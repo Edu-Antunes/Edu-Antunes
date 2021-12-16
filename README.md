@@ -2,9 +2,9 @@
 
 
 - 🔭 Hoje trabalho como Analista de Sinistro e estou migrando para a área de de T.I
-- 👯 Estou cursando na Cruzeiro do Sul, Análise e desenvolvimento de sistema 
-- 🌱 Estou estudando Java
-- 😄 Pronouns: ele/dele
+- 📚 Estou cursando Análise e desenvolvimento de sistema, na Cruzeiro do Sul
+- 💻 Estudando Java / Html na Faculdade 
+- 🎧 No Trabalho utilizamos C#
 
 <div>
   <a href="https://github.com/Edu-Antunes">
