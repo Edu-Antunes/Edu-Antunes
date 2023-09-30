@@ -1,10 +1,12 @@
 ## Olá! Eu sou Edu Antunes
 
 
-- 🔭 Trabalhei como Analista de Sinistro 
+ 
 - 📚 Análise e desenvolvimento de sistema, na Cruzeiro do Sul
-- 💻 Estudando Java / Html na Faculdade 
 - 🎧 Desenvolvedor C# | .Net na Verithus Assessoria e Operações Ltda
+- 🔭 
+- 💻 
+
 
 <div>
   <a href="https://github.com/Edu-Antunes">
